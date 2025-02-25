@@ -1,3 +1,4 @@
+Just a developer hiding in the shadows
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-magar-382889287) 
