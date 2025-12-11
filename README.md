@@ -14,29 +14,29 @@ Just a Developer
   <h1> Hi, I'm [Your Name]!</h1>
   <p>Software Engineer | Open Source Contributor | Tech Enthusiast</p>
   
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Sujal-Gaha&style=flat-square&color=blue" alt="Profile Views"/>
   
   <br/>
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujal-Gaha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-Gaha&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages"/>
   
   <br/>
   
   <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="Contribution Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sujal-Gaha&theme=radical&hide_border=true" alt="Contribution Streak"/>
   
   <br/>
   
   <!-- Pac-Man Contribution Graph -->
   <h2> My Pac-Man Contribution Game</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujal-Gaha/Sujal-Gaha/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujal-Gaha/Sujal-Gaha/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sujal-Gaha/Sujal-Gaha/output/pacman-contribution-graph.svg" width="100%">
   </picture>
   <p>Watch Pac-Man munch through my commits! Updated daily.</p>
   
