@@ -18,10 +18,10 @@ Just a Developer
 
 <!-- New -->
 <div align="center">
-  <p>Just a Developer</p>
+  <h1>Just a Developer</p>
 
   <!-- Pac-Man Contribution Graph -->
-  <h2>ADHD Trap(Pac-Man Contribution Game)</h2>
+  <h2>ADHD Trap (Pac-Man Contribution Game)</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujal-Gaha/Sujal-Gaha/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujal-Gaha/Sujal-Gaha/output/pacman-contribution-graph.svg">
