@@ -23,18 +23,18 @@ Just a Developer
   <br/>
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sujal-Gaha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=Sujal-Gaha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/> -->
   
   <!-- Top Languages (using fast alternative) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sujal-Gaha&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sujal-Gaha&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
   
   <br/>
   
   <!-- Contribution Streak (using fast alternative) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak-stats?user=Sujal-Gaha&theme=radical&hide_border=true&cache_seconds=1800" alt="Contribution Streak"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sujal-Gaha&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Contribution Streak"/>
   
   <br/>
-  
+
   <!-- Pac-Man Contribution Graph -->
   <h2> My Pac-Man Contribution Game</h2>
   <picture>
