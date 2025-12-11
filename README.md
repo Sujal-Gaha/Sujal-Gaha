@@ -20,6 +20,15 @@ Just a Developer
 <div align="center">
   <p>Just a Developer</p>
 
+  <!-- Pac-Man Contribution Graph -->
+  <h2>ADHD Trap(Pac-Man Contribution Game)</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujal-Gaha/Sujal-Gaha/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujal-Gaha/Sujal-Gaha/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sujal-Gaha/Sujal-Gaha/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+  <p>Watch Pac-Man munch through my commits! Updated daily.</p>
+
   <br/>
   
   <!-- GitHub Stats -->
@@ -27,22 +36,12 @@ Just a Developer
   
   <!-- Top Languages (using fast alternative) -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sujal-Gaha&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
-  
-  <br/>
-  
+
   <!-- Contribution Streak (using fast alternative) -->
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sujal-Gaha&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Contribution Streak"/>
   
   <br/>
 
-  <!-- Pac-Man Contribution Graph -->
-  <h2> My Pac-Man Contribution Game</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujal-Gaha/Sujal-Gaha/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujal-Gaha/Sujal-Gaha/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sujal-Gaha/Sujal-Gaha/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-  <p>Watch Pac-Man munch through my commits! Updated daily.</p>
   
   <br/>
   
