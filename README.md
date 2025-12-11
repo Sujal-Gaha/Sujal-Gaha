@@ -68,5 +68,3 @@ Just a Developer
   
   <a href="mailto:suzalgahamagar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/suzalgahamagar)
