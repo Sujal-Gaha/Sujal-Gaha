@@ -48,7 +48,7 @@ Just a Developer
   
   <!-- Tech Stack -->
   <h2> Languages & Tools</h2>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,react,nodejs,docker,git,bash,nx" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,react,nodejs,docker,git,bash,prisma,arch,vim,postgresql,tensorflow" alt="Tech Stack"/>
   
   <br/>
   
