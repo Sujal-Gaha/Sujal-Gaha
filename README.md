@@ -55,7 +55,7 @@ Just a Developer
   <h2> Connect with Me</h2>
   <a href="https://discord.com/users/754755997230432267" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://instagram.com/sujal.gaha.magar" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://x.com/suzalgahamagar" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+  <a href="https://x.com/suzalgahamagar" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/></a>
   <a href="https://reddit.com/user/Bibliophilic_Recluse" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"/></a>
   <a href="https://linkedin.com/in/sujal-magar-382889287" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://sujalgahamagar.com.np" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
